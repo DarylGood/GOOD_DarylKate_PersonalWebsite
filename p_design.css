@@ -55,6 +55,14 @@ a.north2:hover, a.north1, a.north1:active {
     color: #7D3C98;
     font-weight: bold;
 }
+.iC2 {
+    color: #E67E22;
+    font-weight: bold;
+}
+.iC3 {
+    color: #229954;
+    font-weight: bold;
+}
 .one {
     vertical-align: top;
 }
