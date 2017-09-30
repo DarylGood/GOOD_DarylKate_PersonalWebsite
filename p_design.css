@@ -30,12 +30,11 @@ a.north2:hover, a.north1, a.north1:active {
 }
 .pinfo, .pinfo2 {
     font-family: Trebuchet MS;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: normal;
     color: #839192;
     margin-left: 5px;
     margin-right: 5px;
-    text-align: justify;
     vertical-align: top;
     margin-top: 10px;
 }
@@ -52,6 +51,9 @@ a.north2:hover, a.north1, a.north1:active {
     margin-top: 120px;
     margin-bottom: 80px;
 }
+.iC {
+    color: #7D3C98;
+    font-weight: bold;
 }
 .one {
     vertical-align: top;
