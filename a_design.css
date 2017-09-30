@@ -28,3 +28,39 @@ a.north2:hover, a.north1, a.north1:active {
 .s {
     color: #ffffff;
 }
+.dreams {
+    font-family: century gothic;
+    font-size: 100px;
+    color: dimgray;
+    opacity: 0.4;
+}
+.i {
+    margin-top: 50px;
+}
+.one {
+    font-family: trebuchet ms;
+    font-size: 20px;
+    font-weight: bold;
+    color: #E74C3C;
+}
+.one1 {
+    font-family: century gothic;
+    font-size: 15px;
+    color: dimgray;
+}
+.inner {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.dark {
+    background-color: #ECF0F1;
+    padding: 20px;
+    border-radius: 7px;
+    vertical-align: top;
+}
+.light {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 7px;
+    vertical-align: top;
+}
