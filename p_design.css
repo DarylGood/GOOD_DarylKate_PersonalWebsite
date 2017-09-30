@@ -44,7 +44,7 @@ a.north2:hover, a.north1, a.north1:active {
 .me {
     width: 216px;
     height: 388.8px;
-    border: 2px solid black;
+    border: 3px solid black;
     box-shadow: 20px;
 }
 .i {
