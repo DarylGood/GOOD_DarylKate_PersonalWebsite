@@ -1,0 +1,55 @@
+body {
+    background-image: url("pics/w3.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a.north2, a:link, a:visited {
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+}
+a.north2:hover, a.north1, a.north1:active {
+    color: #E74C3C;
+}
+.north {
+    padding: 15px;
+    background-color: #17202A;
+}
+.s {
+    color: #ffffff;
+}
+.pinfo, .pinfo2 {
+    font-family: Trebuchet MS;
+    font-size: 12px;
+    font-weight: normal;
+    color: #839192;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.pinfo2 {
+    padding-left: 10px;
+}
+.me {
+    width: 216px;
+    height: 388.8px;
+    border: 2px solid black;
+    box-shadow: 20px;
+}
+.i {
+    border: 1px solid green;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+}
+.one {
+    vertical-align: top;
+}

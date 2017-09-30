@@ -1,0 +1,57 @@
+body {
+    background-image: url("pics/w3.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#parent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 700px; 
+}
+.name {
+    width: 402px;
+    height: 126px;
+}
+.explore {
+    width: 150px;
+    height: 50px; 
+    background-color: transparent;
+    color: #E74C3C;
+    border: 2px solid #E74C3C;
+}
+.explore:hover {
+    border-color: deepskyblue;
+    color: deepskyblue;
+}
+a.north1, a:link, a:visited {
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+}
+a.north1:hover {
+    color: #E74C3C;
+}
+.north {
+    padding: 15px;
+}
+.s {
+    color: #ffffff;
+}
+.logo {
+    width: 170px;
+    height: 170px;
+}
+.itStud {
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: 18px;
+    color: #7DCEA0;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
