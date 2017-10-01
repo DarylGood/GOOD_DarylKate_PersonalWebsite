@@ -39,6 +39,10 @@ a.north1:hover {
 }
 a.north2 {
     color: #E74C3C;
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: 13px;
+    text-decoration: none;
 }
 .north {
     padding: 10px;
