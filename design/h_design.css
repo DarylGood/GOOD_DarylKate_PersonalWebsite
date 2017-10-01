@@ -66,10 +66,12 @@ a.north2:hover, a.north1, a.north1:active {
 img {
     height: 192px;
     width: 128px;
+    border: 2px solid dimgray;
 }
 .b {
     height: 120px;
     width: 120px;
+    border: 2px solid dimgray;
 }
 .footer {
     position: relative;
