@@ -1,0 +1,30 @@
+body {
+    background-image: url("../pics/w3.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a.north2, a:link, a:visited {
+    font-family: century gothic;
+    font-weight: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+}
+a.north2:hover, a.north1, a.north1:active {
+    color: #E74C3C;
+}
+.north {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 15px;
+    width: 100%;
+    background-color: #17202A;
+    z-index: 10;
+}
+.s {
+    color: #ffffff;
+}
