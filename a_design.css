@@ -40,13 +40,13 @@ a.north2:hover, a.north1, a.north1:active {
 }
 .one {
     font-family: trebuchet ms;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     color: #E74C3C;
 }
 .one1 {
     font-family: century gothic;
-    font-size: 15px;
+    font-size: 13px;
     color: dimgray;
 }
 .inner {
@@ -56,7 +56,7 @@ a.north2:hover, a.north1, a.north1:active {
 }
 .dark {
     background-color: #ECF0F1;
-    padding: 20px;
+    padding: 25px;
     vertical-align: top;
     -moz-box-shadow:    inset 0 0 20px #000000;
     -webkit-box-shadow: inset 0 0 20px #000000;
@@ -64,7 +64,7 @@ a.north2:hover, a.north1, a.north1:active {
 }
 .light {
     background-color: #FBFCFC;
-    padding: 20px;
+    padding: 25px;
     vertical-align: top;
     -moz-box-shadow:    inset 0 0 20px #000000;
     -webkit-box-shadow: inset 0 0 20px #000000;
