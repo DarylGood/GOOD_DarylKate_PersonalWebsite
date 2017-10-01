@@ -31,6 +31,7 @@ a.north2:hover, a.north1, a.north1:active {
 .dreams {
     font-family: century gothic;
     font-size: 100px;
+    font-weight: bold;
     color: dimgray;
     opacity: 0.5;
 }
