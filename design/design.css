@@ -37,6 +37,9 @@ a.north1, a:link, a:visited {
 a.north1:hover {
     color: #E74C3C;
 }
+a.north2 {
+    color: #E74C3C;
+}
 .north {
     padding: 10px;
 }
