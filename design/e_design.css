@@ -1,0 +1,7 @@
+body {
+    background-image: url("../pics/w3.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
