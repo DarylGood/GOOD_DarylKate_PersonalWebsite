@@ -66,3 +66,15 @@ a.north2:hover, a.north1, a.north1:active {
 .one {
     vertical-align: top;
 }
+.footer {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #000000;
+    text-align: center;
+    color: dimgray;
+    font-family: century gothic;
+    font-size: 13px;
+}
